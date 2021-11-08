@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+UTS Sistem Informasi Geografis
 
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Ahmad Agung Zefi Syahputra
+NIM 118140083
